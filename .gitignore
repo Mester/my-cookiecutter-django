@@ -87,3 +87,15 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Pycharm
+.idea
+
+# npm
+node_modules/
+
+# Compass
+.sass-cache
+
+# User-uploaded media
+{{ cookiecutter.project_slug }}/media/
